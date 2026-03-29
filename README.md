@@ -1,5 +1,5 @@
 # **Premier-League-Predictions**
-## In this repository, I utilize a dataset I got from football-data.co.uk (https://football-data.co.uk/mmz4281/2526/E0.csv) .This dataset contains the data of all the Premier League matches played until this day.It contains a lot of categories that I explain below.Most of these categories are used in the feature engineering part in order to create more useful categories and after that, they are dropped do avoid data leakage.
+#### In this repository, I utilize a dataset I got from football-data.co.uk (https://football-data.co.uk/mmz4281/2526/E0.csv) .This dataset contains the data of all the Premier League matches played until this day.It contains a lot of categories that I explain below.Most of these categories are used in the feature engineering part in order to create more useful categories and after that, they are dropped do avoid data leakage.
 The main dataset I use is named E0(1).csv .
 #### Explanation of the dataset categories as per football-data.co.uk:
 * Div = League Division
